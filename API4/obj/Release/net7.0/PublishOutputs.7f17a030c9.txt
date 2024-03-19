@@ -1,0 +1,17 @@
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\API4.exe
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\appsettings.json
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\API4.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\API4.deps.json
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\API4.runtimeconfig.json
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\API4.pdb
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Azure.AI.OpenAI.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Azure.Core.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Newtonsoft.Json.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\griff\OneDrive\Desktop\RPG-Maker 4\API4\bin\Release\net7.0\publish\System.Memory.Data.dll
